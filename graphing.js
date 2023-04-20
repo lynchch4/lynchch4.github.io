@@ -178,7 +178,7 @@ function graph() {
 
                 },
                 series: [{
-                    name: 'women',
+                    name: 'Women',
                     data: women_list
                 }, {
                     name: 'Men',
